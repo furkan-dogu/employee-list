@@ -22,7 +22,7 @@ SOLUTION
 ├── src
 │    ┣ 📂assets
 │    ┣ 📂components
-│    ┃    ┗ 📜List.js
+│    ┃    ┗ 📜List.jsx
 │    ┣ 📂helper
 │    ┃    ┗ 📜data.js
 │    ┣ 📂scss
